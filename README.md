@@ -28,3 +28,11 @@
 - Define userSchema 
 - Create Signup ,Login , Logout api
 - Also setup stream to upSert the Users
+
+# Day-2
+
+- creata a api end for recommended Users
+- create a api end for My friends List
+- create a FriendRequest Model to store all friends
+- create a api end for send friend-request 
+- create a apin end for accpting friend-request
