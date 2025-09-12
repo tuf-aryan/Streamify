@@ -47,4 +47,15 @@
 
 # Frontend :-
 
-# Day-1
+## Day-4
+
+- Setup tailwindCss
+- setup DaisyUi 
+- setup ReactRouter from diffrent pages
+- setup React hot Toast for (Hot React Notification)
+- setup Tanstack Query for Fetching data (use docs for apply) 
+  - for delete = use post,put,delete
+  - for get = use tanstack queries
+- assests extracted  from Storyset website
+- setup lucide-react (for icons)
+- Signup form create making api call for signup and finally redirect to onboarding page
